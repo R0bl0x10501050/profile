@@ -1,7 +1,7 @@
 site_name: R0bl0x10501050
-site_url: https://r0bl0x10501050.github.io/
-repo_name: R0bl0x10501050/r0bl0x10501050.github.io
-repo_url: https://github.com/R0bl0x10501050/r0bl0x10501050.github.io
+site_url: https://r0bl0x10501050.github.io/profile
+repo_name: R0bl0x10501050/profile
+repo_url: https://github.com/R0bl0x10501050/profile
 
 theme:
   name: material
@@ -41,6 +41,7 @@ extra:
 nav:
   - Home: index.md
   - Projects: projects.md
+  - SupportMe: supportme.md
     
 markdown_extensions:
   - admonition
