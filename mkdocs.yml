@@ -41,7 +41,7 @@ extra:
 nav:
   - Home: index.md
   - Projects: projects.md
-  - SupportMe: supportme.md
+  - Support Me: supportme.md
     
 markdown_extensions:
   - admonition
