@@ -1,6 +1,6 @@
 # Roblox
 
-## ColorPlus
+### ColorPlus
 
 **ColorPlus** is a simple Roblox library for inverting and converting colors.
 
@@ -8,7 +8,7 @@
 
 [Review the repo](https://github.com/R0bl0x10501050/ColorPlus)
 
-## RoQuery
+### RoQuery
 
 **RoQuery** is a similar module but altered to fit in with Roblox.
 
@@ -18,15 +18,17 @@
 
 [Read the docs](https://r0bl0x10501050.github.io/RoQuery/)
 
-## Eliminate
+### Eliminate
 
-Eliminate is a virus scanner plugin for Roblox Studio that utilizes a priority system along with script quarantining.
+**Eliminate** is a virus scanner plugin for Roblox Studio that utilizes a priority system along with script quarantining.
 
 [View the post](https://devforum.roblox.com/t/eliminate-keeping-your-games-safe-since-2021/1286338)
 
 [Review the repo](https://github.com/R0bl0x10501050/Eliminate)
 
-## RStore (unreleased)
+### RStore (unreleased)
+
+**RStore** is a DataStoreService API wrapper for Roblox games that utilizes caching.
 
 [Review the repo](https://github.com/R0bl0x10501050/RStoreModule)
 
@@ -34,17 +36,17 @@ Eliminate is a virus scanner plugin for Roblox Studio that utilizes a priority s
 
 # Libraries
 
-## Disjord
+### Disjord
 
-Disjord is a half-finished and no-longer-maintained library for interacting with the Discord API.
+**Disjord** is a half-finished and no-longer-maintained library for interacting with the Discord API.
 
 [Review the repo](https://github.com/R0bl0x10501050/Disjord)
 
 ~~[Read the docs](https://r0bl0x10501050.github.io/Disjord/)~~
 
-## Pybloxy
+### Pybloxy
 
-Pybloxy is a Python API wrapper for Roblox services. Inspired from Pyblox.
+**Pybloxy** is a Python API wrapper for Roblox services. Inspired from Pyblox.
 
 [Review the repo](https://github.com/R0bl0x10501050/Pybloxy)
 
@@ -55,9 +57,9 @@ Coming soon! :D
 
 # Miscellaneous
 
-## Making Discord Bots (tutorial)
+### Making Discord Bots (tutorial)
 
-A simple step-by-step tutorial on how to make a Discord bot is three different languages.
+A simple step-by-step tutorial on how to make a **Discord bot** in **three** different languages.
 
 [Review the repo](https://github.com/R0bl0x10501050/Making-Discord-Bots)
 
